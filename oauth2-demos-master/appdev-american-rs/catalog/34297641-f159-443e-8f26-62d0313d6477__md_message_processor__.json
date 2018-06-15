@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "fliights_json"
+        }
+    },
+    "id": "34297641-f159-443e-8f26-62d0313d6477",
+    "version": "5.2.0.0"
+}
